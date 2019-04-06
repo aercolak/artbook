@@ -13,6 +13,7 @@
 		634ECD3822554D270070DDA4 /* ArtBook.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 634ECD3622554D270070DDA4 /* ArtBook.xcdatamodeld */; };
 		634ECD3A22554D280070DDA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 634ECD3922554D280070DDA4 /* Assets.xcassets */; };
 		634ECD3D22554D280070DDA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 634ECD3B22554D280070DDA4 /* LaunchScreen.storyboard */; };
+		634ECD45225550D80070DDA4 /* detailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634ECD44225550D80070DDA4 /* detailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		634ECD3922554D280070DDA4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		634ECD3C22554D280070DDA4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		634ECD3E22554D280070DDA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		634ECD44225550D80070DDA4 /* detailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				634ECD3B22554D280070DDA4 /* LaunchScreen.storyboard */,
 				634ECD3E22554D280070DDA4 /* Info.plist */,
 				634ECD3622554D270070DDA4 /* ArtBook.xcdatamodeld */,
+				634ECD44225550D80070DDA4 /* detailsVC.swift */,
 			);
 			path = ArtBook;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				634ECD3222554D270070DDA4 /* ViewController.swift in Sources */,
+				634ECD45225550D80070DDA4 /* detailsVC.swift in Sources */,
 				634ECD3822554D270070DDA4 /* ArtBook.xcdatamodeld in Sources */,
 				634ECD3022554D270070DDA4 /* AppDelegate.swift in Sources */,
 			);
